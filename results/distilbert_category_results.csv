@@ -1,0 +1,2 @@
+model,target,accuracy,macro_f1,training_time_seconds,inference_time_ms_per_ticket
+DistilBERT,category,0.9090909090909091,0.9067663817663818,176.7795345999766,33.43239666428417

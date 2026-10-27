@@ -1,0 +1,3 @@
+model,target,accuracy,macro_f1,training_time_seconds,inference_time_ms_per_ticket
+TF-IDF + Logistic Regression,category,0.9242424242424242,0.9238095238095237,0.1894560999935493,1.0685750003904104
+TF-IDF + Logistic Regression,priority,0.9393939393939394,0.9371345029239766,0.030466999975033104,1.9437529996503145

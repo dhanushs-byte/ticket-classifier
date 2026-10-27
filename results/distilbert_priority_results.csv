@@ -1,0 +1,2 @@
+model,target,accuracy,macro_f1,training_time_seconds
+DistilBERT,priority,0.8333333333333334,0.8289364526298324,237.8539706999436

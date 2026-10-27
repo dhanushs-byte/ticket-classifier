@@ -1,0 +1,67 @@
+ticket_id,text,category,priority
+T112,My account has been locked and I cannot log in,Account Access,High
+T101,Customer issue: my account recovery process keeps failing,Account Access,High
+T106,Customer issue: my account recovery process keeps failing,Account Access,High
+T102,My account has been locked and I cannot log in,Account Access,High
+T236,"Hello, do you have a product comparison guide",Product Inquiry,Low
+T235,Where can I read the product brochure,Product Inquiry,Low
+T298,Where can I find the product guide,Product Inquiry,Low
+T226,"Hello, do you have a product comparison guide",Product Inquiry,Low
+T036,I need help: can you explain the taxes on my invoice,Billing,Low
+T037,Customer issue: where can i view my previous receipts,Billing,Low
+T041,I need help: can you explain the taxes on my invoice,Billing,Low
+T084,I need help: can i customize the dashboard layout,Technical Support,Low
+T082,"Hello, where can i find the application tutorial",Technical Support,Low
+T093,How do I enable desktop notifications. Please assist me.,Technical Support,Low
+T095,Customer issue: i need help understanding the application settings,Technical Support,Low
+T253,Cancel my order immediately because it is incorrect. Please assist me.,Cancellation,High
+T254,I need help: i was charged after requesting cancellation,Cancellation,High
+T244,I need help: i was charged after requesting cancellation,Cancellation,High
+T252,"Hello, i need an urgent cancellation before another payment",Cancellation,High
+T206,I need help: a product specification appears to be incorrect,Product Inquiry,High
+T194,"Hello, please confirm whether this product is safe to use",Product Inquiry,High
+T208,I need product information before an urgent purchase,Product Inquiry,High
+T119,"Hello, the login page rejects my correct password",Account Access,Medium
+T115,My verification code is not arriving. Please assist me.,Account Access,Medium
+T124,"Hello, the login page rejects my correct password",Account Access,Medium
+T118,I am not receiving the password reset email,Account Access,Medium
+T019,My monthly subscription price looks incorrect. Please assist me.,Billing,Medium
+T025,I need help: can you check my recent payment history,Billing,Medium
+T032,Please explain the extra charge on my bill,Billing,Medium
+T020,I need help: can you check my recent payment history,Billing,Medium
+T190,I need help: can i update my preferred delivery time,Delivery,Low
+T189,Where can I find the shipping policy. Please assist me.,Delivery,Low
+T179,Where can I find the shipping policy. Please assist me.,Delivery,Low
+T187,How do I change my delivery instructions,Delivery,Low
+T217,I need help: is this item compatible with my current setup,Product Inquiry,Medium
+T214,Does this product support my device,Product Inquiry,Medium
+T222,I need help: is this item compatible with my current setup,Product Inquiry,Medium
+T297,Can this product work with my device,Product Inquiry,Medium
+T146,"Hello, the tracking page says delivered but i received nothing",Delivery,High
+T156,"Hello, the tracking page says delivered but i received nothing",Delivery,High
+T155,My urgent order has not arrived and is overdue,Delivery,High
+T150,My urgent order has not arrived and is overdue,Delivery,High
+T162,"Hello, can you check the expected delivery date",Delivery,Medium
+T174,I need help: i received an update that my shipment is delayed,Delivery,Medium
+T166,My order tracking has not updated,Delivery,Medium
+T002,"Hello, my payment was deducted but my order failed",Billing,High
+T289,I have been charged twice and need a refund,Billing,High
+T008,I received an unexpected duplicate invoice. Please assist me.,Billing,High
+T012,"Hello, my payment was deducted but my order failed",Billing,High
+T135,"Hello, i want to update my account preferences",Account Access,Low
+T144,How do I change my profile picture,Account Access,Low
+T132,I need help: how do i change my username,Account Access,Low
+T273,Where can I read the cancellation policy,Cancellation,Low
+T279,"Hello, how long does cancellation normally take",Cancellation,Low
+T274,"Hello, how long does cancellation normally take",Cancellation,Low
+T060,"Hello, i cannot access the service and my work is blocked",Technical Support,High
+T057,I need help: the system keeps failing during checkout,Technical Support,High
+T058,Customer issue: i urgently need help because the app is down,Technical Support,High
+T291,The website is down and I cannot work,Technical Support,High
+T069,Customer issue: the application freezes occasionally,Technical Support,Medium
+T078,I need help: some features stopped working today,Technical Support,Medium
+T065,The application loads very slowly,Technical Support,Medium
+T257,I would like to cancel my subscription,Cancellation,Medium
+T267,I would like to cancel my subscription,Cancellation,Medium
+T266,Customer issue: can you confirm my cancellation status,Cancellation,Medium
+T260,I need help: i submitted a cancellation request but got no update,Cancellation,Medium

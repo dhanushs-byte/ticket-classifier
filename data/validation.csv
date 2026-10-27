@@ -1,0 +1,55 @@
+ticket_id,text,category,priority
+T109,I suspect unauthorized access to my account. Please assist me.,Account Access,High
+T107,My account has been locked and I cannot log in,Account Access,High
+T293,My account is locked after suspicious activity,Account Access,High
+T231,"Hello, do you have a product comparison guide",Product Inquiry,Low
+T228,I need help: where can i find product dimensions,Product Inquiry,Low
+T230,Where can I read the product brochure,Product Inquiry,Low
+T043,Where can I download an old invoice,Billing,Low
+T040,I want to understand the billing cycle. Please assist me.,Billing,Low
+T045,I want to understand the billing cycle. Please assist me.,Billing,Low
+T083,How do I enable desktop notifications. Please assist me.,Technical Support,Low
+T090,Customer issue: i need help understanding the application settings,Technical Support,Low
+T292,How can I change my application theme,Technical Support,Low
+T242,"Hello, i need an urgent cancellation before another payment",Cancellation,High
+T249,I need help: i was charged after requesting cancellation,Cancellation,High
+T241,Please stop the renewal that is charging me today,Cancellation,High
+T207,Customer issue: please clarify an important product limitation,Product Inquiry,High
+T203,I need product information before an urgent purchase,Product Inquiry,High
+T199,"Hello, please confirm whether this product is safe to use",Product Inquiry,High
+T121,I need help: i cannot update my account email address,Account Access,Medium
+T125,My verification code is not arriving. Please assist me.,Account Access,Medium
+T122,Customer issue: two factor authentication is not working,Account Access,Medium
+T017,Please explain the extra charge on my bill,Billing,Medium
+T029,My monthly subscription price looks incorrect. Please assist me.,Billing,Medium
+T027,Please explain the extra charge on my bill,Billing,Medium
+T192,How do I change my delivery instructions,Delivery,Low
+T191,Customer issue: how long does standard delivery usually take,Delivery,Low
+T186,Customer issue: how long does standard delivery usually take,Delivery,Low
+T211,What is the difference between these two plans. Please assist me.,Product Inquiry,Medium
+T223,Customer issue: please provide more details about this product,Product Inquiry,Medium
+T212,I need help: is this item compatible with my current setup,Product Inquiry,Medium
+T159,Customer issue: the courier lost my package,Delivery,High
+T295,My package is missing and the deadline is today,Delivery,High
+T154,Customer issue: the courier lost my package,Delivery,High
+T164,I need help: i received an update that my shipment is delayed,Delivery,Medium
+T171,My order tracking has not updated,Delivery,Medium
+T167,"Hello, can you check the expected delivery date",Delivery,Medium
+T004,I need help: my account was charged the wrong amount,Billing,High
+T016,I was charged twice for my subscription,Billing,High
+T015,Customer issue: i need urgent help with a failed refund,Billing,High
+T138,Customer issue: can i update my notification preferences,Account Access,Low
+T136,Where can I edit my contact information. Please assist me.,Account Access,Low
+T142,I need help: how do i change my username,Account Access,Low
+T288,Where can I read the cancellation policy,Cancellation,Low
+T283,Where can I read the cancellation policy,Cancellation,Low
+T285,Can I cancel a future renewal. Please assist me.,Cancellation,Low
+T053,Customer issue: i urgently need help because the app is down,Technical Support,High
+T063,Customer issue: i urgently need help because the app is down,Technical Support,High
+T061,The website is completely unavailable. Please assist me.,Technical Support,High
+T074,Customer issue: the application freezes occasionally,Technical Support,Medium
+T067,The dashboard is not displaying correctly. Please assist me.,Technical Support,Medium
+T080,The application loads very slowly,Technical Support,Medium
+T269,How can I end my current membership. Please assist me.,Cancellation,Medium
+T263,"Hello, please help me cancel an order before dispatch",Cancellation,Medium
+T270,I need help: i submitted a cancellation request but got no update,Cancellation,Medium
